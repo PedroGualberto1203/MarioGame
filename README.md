@@ -6,10 +6,15 @@ O projeto foi desenvolvido utilizando HTML, CSS e JavaScript. A interação entr
 🔗 https://pedrogualberto1203.github.io/MarioGame/
 
 Atualmente, há algumas melhorias planejadas, como:
+
 ✅ Adicionar um sistema de pontuação (quantos KMs foram percorridos).
+
 ✅ Implementar vidas extras.
+
 ✅ Criar uma opção para reiniciar o jogo sem precisar recarregar a página.
+
 ✅ Outras otimizações que serão desenvolvidas ao longo do tempo.
+
 
 Acompanhe as atualizações e melhorias do projeto por aqui!
 
